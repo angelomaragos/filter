@@ -1,0 +1,5 @@
+c:\users\angelo maragos\documents\visual studio 2010\Projects\filter\filter\bin\Debug\filter.exe
+c:\users\angelo maragos\documents\visual studio 2010\Projects\filter\filter\bin\Debug\filter.pdb
+c:\users\angelo maragos\documents\visual studio 2010\Projects\filter\filter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\angelo maragos\documents\visual studio 2010\Projects\filter\filter\obj\x86\Debug\filter.exe
+c:\users\angelo maragos\documents\visual studio 2010\Projects\filter\filter\obj\x86\Debug\filter.pdb
